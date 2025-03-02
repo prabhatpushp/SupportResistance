@@ -18,7 +18,7 @@ This project provides functionality to identify and visualize support and resist
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/prabhatpushp/SupportResistance
    cd SupportResistance
    ```
 2. Set up a virtual environment (optional but recommended):
